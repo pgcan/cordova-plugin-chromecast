@@ -38,7 +38,8 @@
     <framework src="androidx.appcompat:appcompat:1.0.0" />
     <framework src="androidx.mediarouter:mediarouter:1.0.0" />
     <framework src="androidx.legacy:legacy-support-v4:1.0.0" />
-
+          
+    <source-file src="src/android/RoutListComparer.java" target-dir="src/acidhax/cordova/chromecast" />
     <source-file src="src/android/Chromecast.java" target-dir="src/acidhax/cordova/chromecast" />
     <source-file src="src/android/ChromecastMediaController.java" target-dir="src/acidhax/cordova/chromecast" />
     <source-file src="src/android/ChromecastMediaRouterCallback.java" target-dir="src/acidhax/cordova/chromecast" />
